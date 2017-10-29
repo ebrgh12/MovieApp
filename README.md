@@ -6,8 +6,8 @@ Android application to display movie information.
 2. Java
 3. Android SDK
 4. Rest API's
-5.Content Providers.
-6.SQLite.
+5. Content Providers.
+6. SQLite.
 
 # Libraries 
 1. Recycler View.
